@@ -1,0 +1,16 @@
+#+TITLE:README for py-msi-keybord
+#+AUTHOR:neko1990
+#+EMAIL:neko1990@gmail.com
+#+DATE:2015-04-04
+#+STARTUP:content
+
+* What's this
+Control MSI Steelseries keyboard LED with python. pywinusb needed for driving the usb.
+* Usage
+An example presented.
+
+~python steel.py~  Flash the LEDs randomly for 10 times.
+* Credits
+Thanks https://github.com/wearefractal/msi-keyboard, I just ported it to python.
+
++Beacause-so-much-pain-getting-node/libusb-working-on-windows.+
